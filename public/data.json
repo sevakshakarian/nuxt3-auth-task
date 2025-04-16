@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "status": "available",
+    "date_created": "2025-04-01",
+    "category": "Electronics",
+    "price": 1399
+  },
+  {
+    "id": 2,
+    "name": "Gaming Chair",
+    "status": "out_of_stock",
+    "date_created": "2025-04-02",
+    "category": "Furniture",
+    "price": 289
+  },
+  {
+    "id": 3,
+    "name": "AirPods Max",
+    "status": "available",
+    "date_created": "2025-04-03",
+    "category": "Electronics",
+    "price": 599
+  },
+  {
+    "id": 4,
+    "name": "LED Desk Lamp",
+    "status": "available",
+    "date_created": "2025-04-04",
+    "category": "Lighting",
+    "price": 49
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk",
+    "status": "available",
+    "date_created": "2025-04-05",
+    "category": "Furniture",
+    "price": 420
+  },
+  {
+    "id": 6,
+    "name": "MacBook Air M3",
+    "status": "available",
+    "date_created": "2025-04-06",
+    "category": "Electronics",
+    "price": 1299
+  },
+  {
+    "id": 7,
+    "name": "Mechanical Keyboard",
+    "status": "available",
+    "date_created": "2025-04-07",
+    "category": "Accessories",
+    "price": 129
+  },
+  {
+    "id": 8,
+    "name": "Ergonomic Mouse",
+    "status": "out_of_stock",
+    "date_created": "2025-04-08",
+    "category": "Accessories",
+    "price": 79
+  },
+  {
+    "id": 9,
+    "name": "Bluetooth Speaker",
+    "status": "available",
+    "date_created": "2025-04-09",
+    "category": "Audio",
+    "price": 199
+  },
+  {
+    "id": 10,
+    "name": "Smart Thermostat",
+    "status": "available",
+    "date_created": "2025-04-10",
+    "category": "Home",
+    "price": 249
+  }
+]
