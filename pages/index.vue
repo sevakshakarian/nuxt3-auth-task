@@ -36,6 +36,10 @@
           {{ authError }}
         </p>
       </UForm>
+      <div class="flex justify-between text-sm mt-4">
+        <NuxtLink to="/register" class="text-blue-600 hover:underline">Регистрация</NuxtLink>
+        <NuxtLink to="/forgot-password" class="text-blue-600 hover:underline">Забыли пароль?</NuxtLink>
+      </div>
     </div>
   </div>
 </section>
