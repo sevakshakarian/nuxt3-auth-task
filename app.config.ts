@@ -37,7 +37,7 @@ export default defineAppConfig({
                 xl: 'text-xl px-7 py-4',
             },
             base: 'bg-gray-50 border border-gray-200 rounded-md shadow-sm focus:ring-1 focus:ring-blue-500 focus:border-blue-500',
-            variants: {
+            variant: {
                 error: 'border-red-500 bg-red-50 text-red-700 placeholder-red-400 focus:ring-red-500 focus:border-red-500',
             },
         }
